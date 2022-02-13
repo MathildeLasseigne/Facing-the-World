@@ -334,7 +334,7 @@ GameObject:
   - component: {fileID: 554345173}
   - component: {fileID: 554345174}
   m_Layer: 5
-  m_Name: Selection
+  m_Name: SelectionEnv
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
