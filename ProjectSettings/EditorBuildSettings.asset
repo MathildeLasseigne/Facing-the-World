@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/starting_menu.unity
+    guid: afdb3891fbda78645a05178ce7ecaaa9
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: 9223852a1ef952645b486492d04cb6a4
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_1.unity
+    guid: cc2209a97bb17e1419ac21cab132c419
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_1bis.unity
+    guid: 1d8088ae0bd94dd478ef35afb4e5662f
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_2.unity
+    guid: 794bb29ae3a5d9948bc32a03a8a59931
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_2bis.unity
+    guid: 1f766c8aa0aab3741b575b9a0eed4987
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_3.unity
+    guid: 99c0d364fc4d2e942bdae1090f9861d8
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire_3bis.unity
+    guid: cebdaf6ed29fb6145af2bbd03c86508e
+  - enabled: 1
+    path: Assets/Scenes/selection_environment.unity
+    guid: 5a03c5a831926d943819a1a9395eb4bb
+  - enabled: 1
+    path: Assets/Scenes/selection_experience.unity
+    guid: f28cd9397a321cc46bc56d0463d4efa0
+  - enabled: 1
+    path: Assets/Scenes/Forest_Dusk.unity
+    guid: b975b452337cce7439cf8e8aab64501f
+  - enabled: 1
+    path: Assets/Scenes/Forest_Sunset.unity
+    guid: fbec2dd19c386fb4ba5e72655d3fde44
+  - enabled: 1
+    path: Assets/Scenes/Dock Thing.unity
+    guid: f4fc660ad7cf6eb4eb8cd6d109f7608e
+  m_configObjects: {}
